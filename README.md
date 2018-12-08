@@ -1,7 +1,9 @@
 # OpenShred
 OpenShred - released at DEF CON 24 in August 2016
 
-08/07/2016  08:20 AM OShredAES.exe SHA1: 2fe1767ecb73f8b970cdb8fee7082fef8d99206a
+08/07/2016  08:20 AM OShredAES.exe
+
+SHA1: 2fe1767ecb73f8b970cdb8fee7082fef8d99206a
 
 Originally repository status missing/deleted; new upload
 
