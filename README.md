@@ -1,5 +1,5 @@
 # OpenShred
-OpenShred - released at DEF CON 24
+OpenShred - released at DEF CON 24 in August 2016
 
 Originally repository status missing/deleted; new upload
 
