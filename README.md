@@ -1,7 +1,7 @@
 # OpenShred
 OpenShred - released at DEF CON 24 in August 2016
 
-Drag and Drop and Command Line Windows File Shredder using AES 256 using Ruby OpenSSL module
+Drag N Drop Windows 10 and Command Line Windows File Shredder using AES 256 using Ruby OpenSSL module
 
 Random IV and Random Encryption Key purged within program memory before exit
 
